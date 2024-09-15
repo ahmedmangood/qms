@@ -14,7 +14,7 @@ const Contact = () => {
         <div className="w-full m-auto flex items-center justify-center">
           <Image
             src={"/images/question.png"}
-            alt=""
+            alt="question"
             width={400}
             height={400}
             className="w-[500px]"
